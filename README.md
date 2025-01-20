@@ -15,7 +15,7 @@ This is a simple sample for Test Automation using Selenium on Java Maven.
 3. Install [Allure Report](https://allurereport.org/docs/install/). 
 4. Download this code repository into your local machine.
 
-## Run Tests
+## Run Tests 
 * Run all tests : Open terminal and run this command
    ```
    mvn clean test -DtestSuites=testsuites/test.xml
